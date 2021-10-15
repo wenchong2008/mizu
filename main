@@ -1,0 +1,1 @@
+FROM gcr.io/up9-docker-hub/mizu/main:0.16.0
